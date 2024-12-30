@@ -1,0 +1,114 @@
+class AppStrings {
+  static const String signInText = "Sign In";
+  static const String signUpText = "Sign Up";
+  static const String logInText = "Log In";
+  static const String uNameText = "Username";
+  static const String pwdText = "Password";
+  static const String loginText1 = "Login";
+  static const String accountExistText = "Already have an account? ";
+  static const String searchText = "Type something..";
+  static const String discText = "Discount Alert";
+  static const String bannerText =
+      "Personalised offers and \ndiscounts details";
+  static const String bannerButtonText = "Avail Now";
+  static const String clusterText = "Cluster Details";
+  static const String clusterNameText = "Name of the Cluster";
+  static const String lbText = "Local Businesses";
+  static const String servicesText = "Services";
+  static const String offerText = "Offers";
+  static const String cmText = "Community News";
+  static const String helpText = "What can I help with?";
+  static const String msgModusText = "Message Modus AI";
+  static const String clusterInfoText = "Cluster Info";
+  static const String bizText = "Business";
+  static const String councilText = "Council";
+  static const String copyRightText = "©Powered by Modus";
+  static const String pbText = "Paid Businesses";
+  static const String unpbText = "Unpaid Businesses";
+  static const String prdText = "Product";
+  static const String pdText = "Paid Business";
+  static const String bnText = "Business Name";
+  static const String descText = "Description";
+  static const String verifyText = "Verified";
+  static const String filterText = "Filters";
+  static const String communityText = "Community";
+  static const String homeText = "Home";
+  static const String moveText = "Move";
+  static const String lbNavText = "Local Business";
+  static const String lcText = "Local Council";
+  static const String postText = "Post Something...";
+  static const String aiText = "AI Bot";
+  static const String ptText = "Pattern Forecast";
+  static const String likeText = "Like";
+  static const String commText = "Comment";
+  static const String shareText = "Share";
+  static const String c1Text = "Login for Council and Hospital API’s";
+  static const String c2Text = "Check your Well-Being";
+  static const String c3Text = "Branding and Community Card Management";
+  static const String obText = "Offers and Benefits";
+  static const String planText = "Plan";
+  static const String subsPlanText = "Subscription Plan 1";
+  static const String costText = "Cost- ";
+  static const String subsPlanText2 = "Subscription Plan 2";
+  static const String clpText = "Check loaded points";
+  static const String ctpText = "Connect to Payment";
+  static const String movText = "Moving House?";
+  static const String movBannerText =
+      "Answer some questions and seamlessly manage address change and utilities";
+  static const String movBannerButtonText = "Register Change";
+  static const String notifyText = "Notify/Manage:";
+  static const String electricityText = "Electricity";
+  static const String waterText = "Water";
+  static const String internetText = "Internet";
+  static const String bankText = "Bank";
+  static const String rodText = "Register/Update Documents:";
+  static const String dlText = "Driving License";
+  static const String erText = "Electoral Role";
+  static const String faceText = "Please confirm through face ID";
+  static const String faceButtonText = "Confirm Face Scan";
+  static const String questText = "Initial Questions";
+  static const String addressDetailsText = "Address Details";
+  static const String confirmText = "Confirm";
+  static const String fdText = "Further Steps";
+  static const String actionText =
+      "What actions are you taking with your current home?";
+  static const String movingOutText = "Moving Out";
+  static const String stText = "Shifting Temporarily";
+  static const String korText = "Keeping on Rent";
+  static const String quest2Text =
+      "What all actions you want to perform with the new address?";
+  static const String option1Text = "Notify utilities, bank";
+  static const String option2Text = "Update Address on documents";
+  static const String option3Text = "Suggest movers, cleaners ";
+  static const String option4Text =
+      "Suggest nearby schools, healthcare, groceries";
+  static const String addressChangeText =
+      "Address change captured successfully!";
+  static const String address1Text = "Electricity Re-connect";
+  static const String address1SubText =
+      "Notified and will take effect in 10 days ";
+  static const String address2Text = "Water Re-connect";
+  static const String address2SubText =
+      "Notified and will take effect in 05 days ";
+  static const String address3Text = "Internet Re-connect";
+  static const String address4Text = "Bank";
+  static const String address5Text = "Documents";
+  static const String addressClusterText = "Check local cluster";
+  static const String notificationText = "Notifications";
+  static const String createProfileText = "Create New Profile";
+  static const String nameText = "Name";
+  static const String ageText = "Age";
+  static const String genderText = "Gender";
+  static const String alText = "Address and Location";
+  static const String nsText = "Next Step>";
+  static const String settingsText = "Settings";
+  static const String editProfileText = "Edit Profile";
+  static const String spText = "Security and Privacy Settings";
+  static const String svText = "Spend Visibility";
+  static const String lsPMText = "Lifestyle Pattern Mapping";
+  static const String prefsText = "App Preferences";
+  static const String clothText = "Clothing";
+  static const String foodText = "Food";
+  static const String assetsText = "Assets";
+  static const String scText = "Search Your Cluster";
+}
